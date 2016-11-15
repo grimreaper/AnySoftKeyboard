@@ -31,7 +31,7 @@ apply plugin: "net.ltgt.errorprone"
 apply plugin: 'pmd'
 
 ext.androidBuildTools = '24.0.3'
-ext.supportLibVersion = '24.1.1'
+ext.supportLibVersion = '25.0.1'
 ext.AnySoftKeyboardApiVersion = '1.6.0'
 
 ext.sdkTargetVersion = 24
