@@ -35,7 +35,7 @@ apply plugin: "net.ltgt.errorprone"
 apply plugin: 'pmd'
 
 configurations.errorprone {
-    resolutionStrategy.force 'com.google.errorprone:error_prone_core:2.0.13'
+    resolutionStrategy.force 'com.google.errorprone:error_prone_core:2.0.14'
 }
 
 allprojects {
